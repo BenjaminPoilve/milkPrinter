@@ -5,6 +5,7 @@ A project I made while working as a freelance for [Nodesign](https://www.nodesig
 
 [![Demo](milkprinter.png)](https://drive.google.com/file/d/0BxsBFm8YwdRAbUcwX0NsRDNXdjQ/view?usp=sharing)
 
+(click for video)
 
 Heavily based on my [Liplo](https://www.youtube.com/watch?v=GrPx1Ue8y_4) project, this printer prints using milk and reveals the print using a heater element.
 
